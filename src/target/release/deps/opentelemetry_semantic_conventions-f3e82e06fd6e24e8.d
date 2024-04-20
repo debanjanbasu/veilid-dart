@@ -1,0 +1,9 @@
+/Users/debanjanbasu/MyProjects/veilid-dart/src/target/release/deps/libopentelemetry_semantic_conventions-f3e82e06fd6e24e8.rmeta: /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/lib.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/resource.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/trace.rs
+
+/Users/debanjanbasu/MyProjects/veilid-dart/src/target/release/deps/libopentelemetry_semantic_conventions-f3e82e06fd6e24e8.rlib: /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/lib.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/resource.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/trace.rs
+
+/Users/debanjanbasu/MyProjects/veilid-dart/src/target/release/deps/opentelemetry_semantic_conventions-f3e82e06fd6e24e8.d: /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/lib.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/resource.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/trace.rs
+
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/lib.rs:
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/resource.rs:
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.14.0/src/trace.rs:

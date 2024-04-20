@@ -1,0 +1,13 @@
+/Users/debanjanbasu/MyProjects/veilid-dart/src/target/release/deps/libopentelemetry_otlp-2d8fdb42d5f80f20.rmeta: /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/lib.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/mod.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/mod.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/trace.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/span.rs
+
+/Users/debanjanbasu/MyProjects/veilid-dart/src/target/release/deps/libopentelemetry_otlp-2d8fdb42d5f80f20.rlib: /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/lib.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/mod.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/mod.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/trace.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/span.rs
+
+/Users/debanjanbasu/MyProjects/veilid-dart/src/target/release/deps/opentelemetry_otlp-2d8fdb42d5f80f20.d: /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/lib.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/mod.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/mod.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/trace.rs /Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/span.rs
+
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/lib.rs:
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/mod.rs:
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/mod.rs:
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/exporter/tonic/trace.rs:
+/Users/debanjanbasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.15.0/src/span.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.15.0
