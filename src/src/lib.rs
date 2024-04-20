@@ -1,11 +1,7 @@
-#![deny(clippy::all)]
-#![allow(clippy::comparison_chain, clippy::upper_case_acronyms)]
-#![deny(unused_must_use)]
-#![recursion_limit = "256"]
-
 // mod dart_ffi;
 // mod dart_isolate_wrapper;
 // mod tools;
+mod veilid_ffi;
 
 #[cfg(target_os = "android")]
 use jni::{objects::JClass, objects::JObject, JNIEnv};
