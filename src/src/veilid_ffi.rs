@@ -1,5 +1,4 @@
 use anyhow::{Ok, Result};
-use flutter_rust_bridge::frb;
 use log::info;
 use once_cell::sync::Lazy;
 use std::{path::Path, sync::Arc};
@@ -100,7 +99,6 @@ pub async fn veilid_init(app_support_dir: String) -> Result<()> {
 }
 
 // This is the most popular function to get the Veilid API when to use it
-#[frb(ignore)]
 pub async fn get_veilid_api() -> VeilidAPIResult<VeilidAPI> {
     // If the API is not initialized
     // This is only needed for Android to work because of the way the Flutter engine works - two VMs
@@ -124,7 +122,6 @@ async fn take_veilid_api() -> VeilidAPIResult<VeilidAPI> {
 }
 
 // Kill Switch - to shutdown your own node
-#[frb(ignore)]
 pub async fn veilid_shutdown() -> Result<()> {
     info!("⏳ Shutting down Veilid...");
     // Taking the API, and store None in the main Option

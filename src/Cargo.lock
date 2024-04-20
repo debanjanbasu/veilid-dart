@@ -4389,6 +4389,7 @@ version = "0.3.1"
 dependencies = [
  "allo-isolate",
  "android_log-sys 0.3.1",
+ "anyhow",
  "async-std",
  "backtrace",
  "cbindgen",
@@ -4401,6 +4402,8 @@ dependencies = [
  "jni",
  "lazy_static",
  "libc-print",
+ "log",
+ "once_cell",
  "opentelemetry",
  "opentelemetry-otlp",
  "opentelemetry-semantic-conventions",
